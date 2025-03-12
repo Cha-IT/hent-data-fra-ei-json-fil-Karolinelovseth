@@ -1,0 +1,51 @@
+[
+    {
+        "tittel":"Stargazing",
+        "sjanger":"Folkrock",
+        "varighet":"2 minutter og 52 sekunder",
+        "album":"A Minute...",
+        "artist":"Myles Smith: En britisk sanger og låtskriver. Han er mest kjent for 'Stargazing' og 'Nice to Meet You'.",
+        "utgitt":2024,
+        "anmeldelse":"MathGenious skriver på Album of The Year: SUPER Nostalgic, brings me right back to the days of Avicii, Mumford and Sons, and 2016 radio. Music doesn't need to be super complex and groundbreaking to be good, and this is proof."
+    },
+
+    {
+        "tittel":"Taste",
+        "sjanger":"Pop",
+        "varighet":"2 minutter og 37 sekunder",
+        "album":"Short n' sweet",
+        "artist":"Sabrina Carpenter: 25 år gammel amerikansk sanger, låtskriver og skuespiller.",
+        "utgitt":2024,
+        "anmeldelse":"Mille Eftang Meinich skriver på Under Dusken: Åpningssporet «Taste» er en smakfull låt med både fengende melodi og gripende tekst, og med åpningslinjen «Oh, I leave quite an impression», har artisten allerede etablert hva hun gjør med lytterne sine."
+    },
+
+    {
+        "tittel":"I Had Some Help",
+        "sjanger":"Country",
+        "varighet":"2 minutter og 58 sekunder",
+        "album":"F-1 Trillion",
+        "artist":"Post Malone: Amerikansk rapper og sanger ved navn Austin Richard Post.",
+        "utgitt":2024,
+        "anmeldelse":"Sneaky skriver på Album of The Year: FINALLY the posty country song we’ve been waiting for. I need an album now."
+    },
+
+    {
+        "tittel":"A Lot More Free",
+        "sjanger":"Country",
+        "varighet":"3 minutter og 18 sekunder",
+        "album":"Wandering",
+        "artist":"Max McNown: 24 år gammel amerikansk sanger og låtskriver.",
+        "utgitt":2024,
+        "anmeldelse":"Maxim Mower skriver på Holler: The autumnal feel of ‘A Lot More Free’ is established in the opening lines, with Max McNown describing the leaves falling and the weather taking a turn for the worse. The hostility of the season mirrors the sadness that accompanied a recent break-up."
+    },
+
+    {
+        "tittel":"we can't be friends (wait for your love)",
+        "sjanger":"Pop",
+        "varighet":"3 minutter og 48 sekunder",
+        "album":"Eternal Sunshine",
+        "artist":"Ariana Grande: 31 år gammel amerikansk sanger og skuespiller.",
+        "utgitt":2024,
+        "anmeldelse":"Sarah Rasmussen skriver på pluggedin: The second single from Grande's album, Eternal Sunshine, “We Can't Be Friends” encapsulates the heartache of an ended relationship. In the song, Grande declares to an unnamed ex that although “we can't be friends,” she would “like to just pretend” and “wait until you like me again.”"
+    }
+]
